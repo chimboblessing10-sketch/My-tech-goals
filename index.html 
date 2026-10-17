@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tech Goals</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>My Tech Goals</h1>
+
+    <h2>My Chosen Track</h2>
+    <p>My chosen track is Web Development.</p>
+
+    <h2>My Goals</h2>
+    <ul>
+        <li>Learn HTML.</li>
+        <li>Learn CSS.</li>
+        <li>Learn JavaScript.</li>
+    </ul>
+
+    <h2>Why I Chose My Track</h2>
+    <p>
+        I chose Web Development because I want to learn how to create websites.
+        I also want to use my skills to solve problems and help people
+       </p>
+   
+
+</body>
+</html>
